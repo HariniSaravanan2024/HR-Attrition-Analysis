@@ -53,5 +53,11 @@ Employee attrition can affect workforce stability and organizational planning. T
 - [MySQL Queries](SQL/)
 - [Power BI Dashboard](PowerBI/)
 
+## 📄 Project Report
+
+The complete project documentation is available in the Report folder.
+
+📂 [View Project Report](Report/HR_Attrition_Analysis_Complete_Project_Report.pdf)
+
 ## Conclusion
 This project demonstrates an end-to-end HR analytics workflow, from data exploration and SQL-based analysis to interactive Power BI dashboard development. It provides a structured view of workforce trends and employee attrition to support HR decision-making.
